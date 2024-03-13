@@ -29,6 +29,7 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [LinkWhisper](https://linkwhisper.com/)
 - [inLinks](https://inlinks.com)
 - [Twylu](https://www.twylu.com)
+- [Beki](https://www.beki.io)
 
 ## 📈 Tracking & Discovery
 - [Google Analytics](https://analytics.google.com/)
@@ -44,6 +45,7 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [byword](https://byword.ai)
 - [rockcontent](https://rockcontent.com)
 - [RankIQ](https://www.rankiq.com)
+- [Jasper](https://www.jasper.ai)
 
 ## 🏗️ Link Building
 - [BuzzStream](https://www.buzzstream.com/)
@@ -51,7 +53,7 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [Hunter](https://hunter.io/)
 - [RockeLinks](https://www.rocketlinks.com/en/)
 - [The HOTH](https://www.thehoth.com)
-- [https://www.rhinorank.io](RhinoRank)
+- [RhinoRank](https://www.rhinorank.io)
 - [fatjoe](https://fatjoe.com)
 - [SERPninja](https://serpninja.io)
 - [UpperRanks](https://theupperranks.com)
@@ -62,6 +64,7 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [GTmetrix](https://gtmetrix.com/)
 - [Pingdom](https://tools.pingdom.com)
 - [WebPageTest](https://www.webpagetest.org)
+- [URL Monitor](https://urlmonitor.com)
 
 ## 🌐 Resources
 - [Backlinko](https://backlinko.com)
