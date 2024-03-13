@@ -1,6 +1,6 @@
 # The Complete List of SEO Tools
 
-This repository contains a comprehensive list of various SEO tools categorized into different sections to aid in optimizing your website's search engine performance.
+This repository contains a comprehensive list of various SEO tools categorized into different sections to aid in optimizing your website's SEO.
 
 ## Suites
 - [SEMRush](https://www.semrush.com/)
