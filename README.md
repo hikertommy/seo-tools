@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive list of various SEO tools categorized into different sections to aid in optimizing your website's SEO.
 
-## Suites
+## 💼 Suites
 - [SEMRush](https://www.semrush.com/)
 - [Ahrefs](https://ahrefs.com/)
 - [Moz Pro](https://moz.com/)
@@ -14,15 +14,15 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [Raven Tools](https://raventools.com)
 - [SEO Power Suite](https://www.link-assistant.com)
 
-## Keyword Tools
+## 🔎 Keyword Tools
 - [Google Keyword Planner](https://ads.google.com/intl/en_in/home/tools/keyword-planner/)
 - [Ubersuggest](https://neilpatel.com/ubersuggest/)
 - [KeywordTool.io](https://keywordtool.io/)
-- [SEOFormulas](https://www.seoformulas.com)
+- [SEO Formulas](https://www.seoformulas.com)
 - [KeySearch](https://www.keysearch.co)
 - [Wordtracker](https://www.wordtracker.com)
 
-## Internal Linking
+## 🔗 Internal Linking
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/)
 - [Screaming Frog](https://www.screamingfrog.co.uk/)
 - [LinkStorm](https://linkstorm.io)
@@ -30,13 +30,13 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [inLinks](https://inlinks.com)
 - [Twylu](https://www.twylu.com)
 
-## Tracking & Discovery
+## 📈 Tracking & Discovery
 - [Google Analytics](https://analytics.google.com/)
 - [SEOptimer](https://www.seoptimer.com/)
 - [Majestic](https://majestic.com)
 - [rankwatch](https://www.rankwatch.com)
 
-## Content Generation
+## ✍️ Content Generation
 - [SurferSEO](https://surferseo.com/)
 - [Clearscope](https://www.clearscope.io/)
 - [Cuppa](https://www.cuppa.sh)
@@ -45,7 +45,7 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [rockcontent](https://rockcontent.com)
 - [RankIQ](https://www.rankiq.com)
 
-## Link Building
+## 🏗️ Link Building
 - [BuzzStream](https://www.buzzstream.com/)
 - [Pitchbox](https://pitchbox.com/)
 - [Hunter](https://hunter.io/)
@@ -56,14 +56,14 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [SERPninja](https://serpninja.io)
 - [UpperRanks](https://theupperranks.com)
 
-## Technical
+## 💻 Technical
 - [Google Search Console](https://search.google.com/search-console/)
 - [Google PageSpeed](https://pagespeed.web.dev)
 - [GTmetrix](https://gtmetrix.com/)
 - [Pingdom](https://tools.pingdom.com)
 - [WebPageTest](https://www.webpagetest.org)
 
-## Resources
+## 🌐 Resources
 - [Backlinko](https://backlinko.com)
 - [Search Engine Land](https://searchengineland.com)
 - [tl:dr Marketing](https://tldrmarketing.com/seo/)
