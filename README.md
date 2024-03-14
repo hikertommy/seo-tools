@@ -38,6 +38,7 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [rankwatch](https://www.rankwatch.com)
 
 ## ✍️ Content Generation
+- [AIMD](https://aimd.app)
 - [SurferSEO](https://surferseo.com/)
 - [Clearscope](https://www.clearscope.io/)
 - [Cuppa](https://www.cuppa.sh)
