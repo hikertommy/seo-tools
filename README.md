@@ -67,6 +67,10 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [WebPageTest](https://www.webpagetest.org)
 - [URL Monitor](https://urlmonitor.com)
 
+## 🔌 APIs
+- [Bishopi](https://bishopi.io/apis)
+ 
+
 ## 🌐 Resources
 - [Backlinko](https://backlinko.com)
 - [Search Engine Land](https://searchengineland.com)
