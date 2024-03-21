@@ -33,6 +33,7 @@ This repository contains a comprehensive list of various SEO tools categorized i
 
 ## 📈 Tracking & Discovery
 - [Google Analytics](https://analytics.google.com/)
+- [SEO Gets](https://seogets.com)
 - [SEOptimer](https://www.seoptimer.com/)
 - [Majestic](https://majestic.com)
 - [rankwatch](https://www.rankwatch.com)
