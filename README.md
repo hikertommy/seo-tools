@@ -43,7 +43,6 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [AIMD](https://aimd.app)
 - [SurferSEO](https://surferseo.com/)
 - [Clearscope](https://www.clearscope.io/)
-- [Cuppa](https://www.cuppa.sh)
 - [Grammarly](https://www.grammarly.com/)
 - [byword](https://byword.ai)
 - [rockcontent](https://rockcontent.com)
