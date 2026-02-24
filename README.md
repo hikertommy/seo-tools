@@ -40,6 +40,7 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [Keyword Watchdog](https://www.keywordwatchdog.com)
 
 ## ✍️ Content Generation
+- [Attract](https://www.attract.so)
 - [AIMD](https://aimd.app)
 - [SurferSEO](https://surferseo.com/)
 - [Clearscope](https://www.clearscope.io/)
