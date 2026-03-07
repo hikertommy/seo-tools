@@ -68,6 +68,8 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [Pingdom](https://tools.pingdom.com)
 - [WebPageTest](https://www.webpagetest.org)
 - [URL Monitor](https://urlmonitor.com)
+- [EdgeComet](https://edgecomet.com/)
+- [JSBug](https://jsbug.org/)
 
 ## 🔌 APIs
 - [Bishopi](https://bishopi.io/apis)
