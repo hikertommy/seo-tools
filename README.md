@@ -32,6 +32,7 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [Beki](https://www.beki.io)
 
 ## 📈 Tracking & Discovery
+- [Keyword Watchdog](https://keywordwatchdog.com/)
 - [Google Analytics](https://analytics.google.com/)
 - [SEO Gets](https://seogets.com)
 - [SEOptimer](https://www.seoptimer.com/)
