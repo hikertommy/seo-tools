@@ -77,3 +77,7 @@ This repository contains a comprehensive list of various SEO tools categorized i
 - [Backlinko](https://backlinko.com)
 - [Search Engine Land](https://searchengineland.com)
 - [tl:dr Marketing](https://tldrmarketing.com/seo/)
+
+
+## Advanced GEO Tools
+- [KusiGEO](https://kusiai.es/) — AI visibility audit tool for ChatGPT, Gemini, Perplexity and AI Overviews; measures brand mentions, entity clarity and citation readiness.
