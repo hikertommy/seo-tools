@@ -71,6 +71,7 @@ This repository contains a comprehensive list of various SEO tools categorized i
 
 ## 🔌 APIs
 - [Bishopi](https://bishopi.io/apis)
+- [Datacircle](https://datacircle.dev): benchmarks of SEO, SERP and keyword APIs, price per 1,000 results and score
  
 
 ## 🌐 Resources
